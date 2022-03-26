@@ -7,3 +7,9 @@ This is intended for sharing experience and knowledge and helping build a better
 
 
 p.s. The repo may also serve to make us use git better.
+
+
+# Pytorch Learning tutorial
+```bash
+./Chris/learning_code/pytorch_tutorial
+```
